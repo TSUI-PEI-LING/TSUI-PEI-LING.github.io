@@ -1,3 +1,7 @@
+<?php
+    echo "123456";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
